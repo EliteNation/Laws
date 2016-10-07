@@ -1,4 +1,5 @@
 Clause 1 - Fair Usage
+
 Section A - Non Discriminatory Access
  1) Everyone will have default access, and will not be infringed on any basis regarding:
   race (1A4)
@@ -19,4 +20,8 @@ Section A - Non Discriminatory Access
   Mental Stability
   Type of Criminal History (Violent, Instable, Suicidal)
   Type of Job History (Military, Artillery, Aeronautics, Explosives, Center of Disease Control)
-  
+  Stability of Country Leader/Organization Intentions
+
+Section B - Basis of Pricing
+ 1) All individuals will have the base amounts be free under the services listed in C2SA, unless restricted because of C1SA2 or C1SA3
+ 2) The pricing for individuals will be the same, outside of C2SA, unless otherwise stated by the service provider.
